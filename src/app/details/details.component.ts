@@ -29,6 +29,9 @@ import { FormControl, FormGroup, ReactiveFormsModule  } from '@angular/forms';
             <li>
               Does this location have laundry: {{housingLocation?.laundry}}
             </li>
+            <li>
+              Does this location have helper: {{housingLocation?.helper}}
+            </li>
           </ul>
       </section>
       <section class="listing-apply">
