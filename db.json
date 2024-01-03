@@ -99,6 +99,15 @@
             "availableUnits": 6,
             "wifi": true,
             "laundry": true
+          },{
+            "id": 10,
+            "name": "İstanbul Evleri",
+            "city": "İstanbul",
+            "state": "TR",
+            "photo": "/assets/istanbul.jpg",
+            "availableUnits": 6,
+            "wifi": true,
+            "laundry": true
           }
     ]
 }
