@@ -7,8 +7,9 @@ import { RouterModule } from '@angular/router';
   template: `
   <main>
       <header class="brand-name"> 
-        <a href=".">
-        <img class="brandlogo" src="/assets/logo.svg" alt="logo" aria-hidden="true">
+        <a href="."> 
+        <img class="brandlogo" src="/assets/logo.svg" alt="logo" aria-hidden="true"><br>
+        Ana Sayfa
         </a>
       </header>
       <section class="content">
